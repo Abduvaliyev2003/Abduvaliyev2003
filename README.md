@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abduvaliyev2003/Abduvaliyev2003/blob/boot/CDG_blog_post_image_02-850x412.jpg)
 <h1 align="center">Hi 👋, I'm Asadbek</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h3 align="center">I am a backend developer from Uzbekistan</h3>
 
 - ⚡ Fun fact **I am funny😅**
 
