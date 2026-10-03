@@ -1,18 +1,203 @@
-![logo](https://github.com/Abduvaliyev2003/Abduvaliyev2003/blob/boot/CDG_blog_post_image_02-850x412.jpg)
-<h1 align="center">Hi 👋, I'm Asadbek</h1>
-<h3 align="center">I am a backend developer from Uzbekistan</h3>
+# 👋 Hi, I'm Asadbek Abduvaliyev
 
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asadbek-abduvaliyev-25077324a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadbek-abduvaliyev-25077324a" height="30" width="40" /></a>
-<a href="https://instagram.com/abduvaliyev_03_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduvaliyev_03_07" height="30" width="40" /></a>
-<a href="https://medium.com/@abduvaliyevasad23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abduvaliyevasad23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abduvaliyevasad23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abduvaliyevasad23/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Asadbek%20Abduvaliyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h3 align="center">
+  🚀 Backend Developer | Python | Django | Laravel
+</h3>
 
+<p align="center">
+  Building reliable backend systems, REST APIs and scalable web applications.
+</p>
 
+<p align="center">
+  <a href="https://github.com/Abduvaliyev2003">
+    <img src="https://img.shields.io/github/followers/Abduvaliyev2003?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Abduvaliyev2003">
+    <img src="https://img.shields.io/github/stars/Abduvaliyev2003?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Backend Developer from Uzbekistan 🇺🇿** focused on building reliable, maintainable and scalable web applications.
+
+I enjoy working with backend architecture, REST APIs, databases, authentication, business logic and third-party integrations.
+
+Currently, I'm focusing on improving my skills in:
+
+- 🐍 Python
+- 🌐 Django
+- ⚡ Django REST Framework
+- 🗄️ PostgreSQL
+- 🔴 Redis
+- 🐳 Docker
+- 🏗️ System Design
+- ☁️ Deployment & scalable architecture
+
+I also have experience working with **PHP, Laravel, React and JavaScript**.
+
+> 💡 I don't just want to write code that works — I want to understand how systems work.
+
+---
+
+## ⚡ What I Do
+
+- 🔹 Backend Development
+- 🔹 REST API Development
+- 🔹 Database Design
+- 🔹 Authentication & Authorization
+- 🔹 Business Logic
+- 🔹 Third-party API Integration
+- 🔹 Telegram Bots
+- 🔹 Real-time Applications
+- 🔹 Dockerized Applications
+- 🔹 Web Application Architecture
+- 🔹 Admin Panels
+- 🔹 Deployment & Server Configuration
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+</p>
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,laravel" />
+</p>
+
+## 🗄️ Databases & Storage
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+</p>
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+## 🐳 DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📄 Resume Builder
+
+A full-stack SaaS resume builder platform with AI-powered features.
+
+### Tech Stack
+
+`Laravel` `PHP` `PostgreSQL` `Redis` `Docker` `REST API`
+
+### Features
+
+- 📄 Resume creation
+- 🎨 Multiple resume templates
+- 📑 PDF generation
+- 🤖 AI-powered resume feedback
+- 📊 ATS-oriented analysis
+- 🔐 Authentication
+- 👤 User management
+- 🛠️ Admin panel
+- 🌐 REST API
+- 🐳 Dockerized environment
+
+---
+
+## 🤖 AsadMovieBot
+
+Telegram movie management and delivery bot.
+
+### Tech Stack
+
+`Python` `Telegram Bot API` `MongoDB` `Docker` `Nginx`
+
+### Features
+
+- 🎬 Movie search
+- 🔢 Movie codes
+- 📦 Movie management
+- 🤖 Telegram automation
+- 🗄️ Database integration
+- 🐳 Docker deployment
+
+---
+
+## 🛒 Internet Market
+
+E-commerce backend application built with Django.
+
+### Tech Stack
+
+`Python` `Django` `PostgreSQL` `REST API`
+
+### Focus
+
+- Product management
+- Categories
+- Users
+- Authentication
+- Database relationships
+- REST API
+- Scalable backend structure
+
+---
+
+## 🖐️ Hand Gesture Mouse
+
+Computer vision project that allows mouse interaction using hand gestures.
+
+### Tech Stack
+
+`Python` `OpenCV`
+
+---
+
+## 💬 Laravel + React Chat
+
+Real-time chat application built using Laravel and React.
+
+### Tech Stack
+
+`PHP` `Laravel` `React` `WebSocket`
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Python
+   │
+   ├── Django
+   │
+   ├── Django REST Framework
+   │
+   ├── PostgreSQL
+   │
+   ├── Redis
+   │
+   ├── Docker
+   │
+   ├── Testing
+   │
+   ├── System Design
+   │
+   └── Scalable Backend Architecture
