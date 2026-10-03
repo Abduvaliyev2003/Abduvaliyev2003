@@ -1,203 +1,446 @@
-# 👋 Hi, I'm Asadbek Abduvaliyev
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Asadbek%20Abduvaliyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+midnight.asadbek
 
-<h3 align="center">
-  🚀 Backend Developer | Python | Django | Laravel
-</h3>
+👋 Hi, I'm Asadbek Abduvaliyev
 
-<p align="center">
-  Building reliable backend systems, REST APIs and scalable web applications.
-</p>
+Backend Developer · Python · Django · PostgreSQL · Laravel
 
-<p align="center">
-  <a href="https://github.com/Abduvaliyev2003">
-    <img src="https://img.shields.io/github/followers/Abduvaliyev2003?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Abduvaliyev2003">
-    <img src="https://img.shields.io/github/stars/Abduvaliyev2003?label=Stars&style=for-the-badge&logo=github" />
-  </a>
-</p>
+Start Building The System.
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<a href="https://github.com/Abduvaliyev2003">
+  <img src="https://img.shields.io/badge/GitHub-Abduvaliyev2003-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/asadbek-abduvaliyev-25077324a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Asadbek-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://t.me/abduvaliyev_asad_07_03">
+  <img src="https://img.shields.io/badge/Telegram-Contact-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+</a>
 
-I'm a **Backend Developer from Uzbekistan 🇺🇿** focused on building reliable, maintainable and scalable web applications.
+</div>
 
-I enjoy working with backend architecture, REST APIs, databases, authentication, business logic and third-party integrations.
+<div align="center">
 
-Currently, I'm focusing on improving my skills in:
+        ╭──────────────────────────────────────────────────╮
+        │                                                  │
+        │      ██████╗  ███████╗██╗   ██╗                 │
+        │      ██╔══██╗ ██╔════╝██║   ██║                 │
+        │      ██████╔╝ █████╗  ██║   ██║                 │
+        │      ██╔══██╗ ██╔══╝  ╚██╗ ██╔╝                 │
+        │      ██║  ██║ ███████╗ ╚████╔╝                  │
+        │      ╚═╝  ╚═╝ ╚══════╝  ╚═══╝                   │
+        │                                                  │
+        │          backend systems / clean architecture   │
+        │                                                  │
+        ╰──────────────────────────────────────────────────╯
 
-- 🐍 Python
-- 🌐 Django
-- ⚡ Django REST Framework
-- 🗄️ PostgreSQL
-- 🔴 Redis
-- 🐳 Docker
-- 🏗️ System Design
-- ☁️ Deployment & scalable architecture
+> Building reliable systems, one API at a time.
 
-I also have experience working with **PHP, Laravel, React and JavaScript**.
+</div>
 
-> 💡 I don't just want to write code that works — I want to understand how systems work.
+<table>
+<tr>
+<td width="58%" valign="top">
 
----
+👨‍💻 About Me
 
-## ⚡ What I Do
+Asadbek Abduvaliyev — Backend Developer from Uzbekistan 🇺🇿
 
-- 🔹 Backend Development
-- 🔹 REST API Development
-- 🔹 Database Design
-- 🔹 Authentication & Authorization
-- 🔹 Business Logic
-- 🔹 Third-party API Integration
-- 🔹 Telegram Bots
-- 🔹 Real-time Applications
-- 🔹 Dockerized Applications
-- 🔹 Web Application Architecture
-- 🔹 Admin Panels
-- 🔹 Deployment & Server Configuration
+I build backend systems, REST APIs and web applications with a focus on clean architecture, databases, authentication and maintainable business logic.
 
----
+Currently sharpening my backend engineering skills around:
 
-# 🛠️ Tech Stack
+🐍 Python
 
-## 👨‍💻 Programming Languages
+🌐 Django
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
-</p>
+⚡ Django REST Framework
 
-## ⚙️ Backend
+🐘 PostgreSQL
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,laravel" />
-</p>
+🔴 Redis
 
-## 🗄️ Databases & Storage
+🐳 Docker
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
-</p>
+🏗️ System Design
 
-## 🎨 Frontend
+I also work with PHP/Laravel, React and modern web tooling.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
+<br/>
 
-## 🐳 DevOps & Tools
+> Understand the problem
+> Design the system
+> Write the code
+> Test the edge cases
+> Deploy
+> Improve
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux" />
-</p>
+</td>
+<td width="42%" valign="middle">
 
----
+<div align="center">
 
-# 🚀 Featured Projects
+🧠 CURRENT MODE
 
-## 📄 Resume Builder
+┌──────────────────────┐
+│                      │
+│  BACKEND ENGINEER    │
+│                      │
+│  Python      ████████│
+│  Django      ███████░│
+│  PostgreSQL  ███████░│
+│  Docker      ██████░░│
+│  System      █████░░░│
+│  Design      █████░░░│
+│                      │
+└──────────────────────┘
 
-A full-stack SaaS resume builder platform with AI-powered features.
+Status: Building
 
-### Tech Stack
+Focus: Backend
 
-`Laravel` `PHP` `PostgreSQL` `Redis` `Docker` `REST API`
+Mindset: Keep learning
 
-### Features
+</div>
 
-- 📄 Resume creation
-- 🎨 Multiple resume templates
-- 📑 PDF generation
-- 🤖 AI-powered resume feedback
-- 📊 ATS-oriented analysis
-- 🔐 Authentication
-- 👤 User management
-- 🛠️ Admin panel
-- 🌐 REST API
-- 🐳 Dockerized environment
+</td>
+</tr>
+</table>
 
----
+⚙️ Tech Stack
 
-## 🤖 AsadMovieBot
+<div align="center">
 
-Telegram movie management and delivery bot.
+Languages
 
-### Tech Stack
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css&theme=dark" />
 
-`Python` `Telegram Bot API` `MongoDB` `Docker` `Nginx`
+Backend
 
-### Features
+<img src="https://skillicons.dev/icons?i=django,fastapi,laravel&theme=dark" />
 
-- 🎬 Movie search
-- 🔢 Movie codes
-- 📦 Movie management
-- 🤖 Telegram automation
-- 🗄️ Database integration
-- 🐳 Docker deployment
+Database & Storage
 
----
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark" />
 
-## 🛒 Internet Market
+Frontend
 
-E-commerce backend application built with Django.
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
 
-### Tech Stack
+DevOps & Tools
 
-`Python` `Django` `PostgreSQL` `REST API`
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,pycharm,postman&theme=dark" />
 
-### Focus
+</div>
 
-- Product management
-- Categories
-- Users
-- Authentication
-- Database relationships
-- REST API
-- Scalable backend structure
+🧩 How I Think About Backend
 
----
+<div align="center">
 
-## 🖐️ Hand Gesture Mouse
+                       ┌───────────────┐
+                       │    PROBLEM    │
+                       └───────┬───────┘
+                               │
+                               ▼
+                    ┌───────────────────┐
+                    │     ANALYZE       │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      DESIGN       │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+              ┌───────────────────────────────┐
+              │         ARCHITECTURE          │
+              └───────────────┬───────────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │       CODE        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │       TEST        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      DEPLOY       │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      IMPROVE      │
+                    └───────────────────┘
 
-Computer vision project that allows mouse interaction using hand gestures.
+</div>
 
-### Tech Stack
+🚀 Selected Projects
 
-`Python` `OpenCV`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+📄 Resume Builder
 
-## 💬 Laravel + React Chat
+AI-powered resume builder
 
-Real-time chat application built using Laravel and React.
+Laravel PHP PostgreSQL Redis Docker
 
-### Tech Stack
+Resume creation
 
-`PHP` `Laravel` `React` `WebSocket`
+Multiple templates
 
----
+PDF generation
 
-# 🧠 Currently Learning
+AI feedback
 
-```text
-Python
-   │
-   ├── Django
-   │
-   ├── Django REST Framework
-   │
-   ├── PostgreSQL
-   │
-   ├── Redis
-   │
-   ├── Docker
-   │
-   ├── Testing
-   │
-   ├── System Design
-   │
-   └── Scalable Backend Architecture
+ATS-oriented analysis
+
+Authentication
+
+REST API
+
+Admin panel
+
+→ View repository
+
+</td>
+
+<td width="50%" valign="top">
+
+💬 Laravel + React Chat
+
+Real-time communication project
+
+Laravel PHP React WebSocket
+
+Backend API
+
+Real-time communication
+
+Authentication
+
+React client
+
+WebSocket integration
+
+→ View repository
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⚽ Sports Platform
+
+Frontend + backend application
+
+JavaScript API Database
+
+Sports-oriented application
+
+Separate frontend/backend
+
+API-driven architecture
+
+Business logic
+
+→ Frontend · Backend
+
+</td>
+
+<td width="50%" valign="top">
+
+🖐️ Hand Gesture Mouse
+
+Computer vision experiment
+
+Python OpenCV
+
+A Python project exploring computer-vision based hand gesture interaction.
+
+→ View repository
+
+</td>
+</tr>
+</table>
+
+🏗️ Backend Architecture
+
+<div align="center">
+
+                         CLIENT
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    NGINX    │
+                    └──────┬──────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Django / DRF    │
+                  │     API        │
+                  └───────┬─────────┘
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+             ▼            ▼            ▼
+       ┌──────────┐  ┌─────────┐  ┌────────────┐
+       │PostgreSQL│  │  Redis  │  │ External   │
+       │          │  │         │  │ APIs       │
+       └──────────┘  └─────────┘  └────────────┘
+             │            │
+             └────────────┼────────────┐
+                          ▼            │
+                    ┌──────────┐      │
+                    │  Docker  │◄─────┘
+                    └────┬─────┘
+                         ▼
+                      Linux
+
+</div>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abduvaliyev2003&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduvaliyev2003&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+
+</div>
+
+🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abduvaliyev2003&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduvaliyev2003&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+🐍 Contribution Matrix
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abduvaliyev2003/Abduvaliyev2003/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
+
+If the snake is not displayed, enable the GitHub Action that generates the github-contribution-grid-snake-dark.svg file in this profile repository.
+
+🎯 2026 — Building Season
+
+<div align="center">
+
+Area
+
+Focus
+
+🐍 Python
+
+Advanced backend development
+
+🌐 Django
+
+Production-ready applications
+
+⚡ DRF
+
+REST API architecture
+
+🐘 PostgreSQL
+
+SQL, indexing & database design
+
+🔴 Redis
+
+Caching & performance
+
+🐳 Docker
+
+Containers & deployment
+
+🧪 Testing
+
+Reliable backend systems
+
+🏗️ System Design
+
+Scalable architecture
+
+🔐 Security
+
+Authentication & secure APIs
+
+🤖 AI
+
+AI-powered applications
+
+</div>
+
+💭 Philosophy
+
+<div align="center">
+
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│       "Don't just make the code work.                       │
+│        Understand why it works."                             │
+│                                                              │
+│                              — Asadbek                       │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+Build → Break → Learn → Rebuild → Ship
+
+</div>
+
+🔗 Connect
+
+<div align="center">
+
+<a href="https://github.com/Abduvaliyev2003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/asadbek-abduvaliyev-25077324a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://t.me/abduvaliyev_asad_07_03">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/abduvaliyev_03_07/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+> START DEBUGGING THE CHAOS
+
+Python · Django · PostgreSQL · Laravel · Docker
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abduvaliyev2003&style=for-the-badge&color=161b22" />
+
+</div>
