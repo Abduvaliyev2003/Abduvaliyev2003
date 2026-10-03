@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1f3a5f,100:f78166&text=Asadbek%20Abduvaliyev&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Uzbekistan&descSize=20&descAlignY=60" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Python+%7C+Django+%7C+PostgreSQL;Clean+code.+Solid+architecture.;Building+scalable+APIs" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Python+%7C+Django+%7C+PostgreSQL;PHP.Laravel.;Building+scalable+APIs" alt="typing" />
 </p>
 
 <p align="center">
