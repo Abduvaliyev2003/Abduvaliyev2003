@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%" alt="Asadbek Abduvaliyev, Backend Developer" />
+<img src="nubelson-fernandes--Xqckh_XVU4-unsplash.jpg" width="100%" alt="Asadbek Abduvaliyev, Backend Developer" />
 
 <h2 align="center">🚀 About Me</h2>
 
