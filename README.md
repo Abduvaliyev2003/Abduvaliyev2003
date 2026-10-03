@@ -1,37 +1,20 @@
-<img src="banner.png" width="100%" alt="banner" />
-
-<h1 align="center">Hi 👋, I'm Asadbek</h1>
-<h3 align="center">Backend Developer</h3>
-<p align="center">Clean code, solid architecture, scalable APIs.</p>
-
----
+<img src="banner.svg" width="100%" alt="Asadbek Abduvaliyev, Backend Developer" />
 
 <h2 align="center">🚀 About Me</h2>
 
-<table>
-<tr>
-<td width="65%">
-
-**Asadbek** here, a backend developer from Uzbekistan 🇺🇿
-
-I build REST APIs and web backends with Python, Django and PostgreSQL.
-
-Currently learning **Redis, Docker, System Design** and backend security.
-
-</td>
-<td width="35%" align="center">
-  <img src="about.png" width="200" />
-</td>
-</tr>
-</table>
+<p align="center">
+  Backend developer from Uzbekistan 🇺🇿<br>
+  I build REST APIs and web backends with Python, Django and PostgreSQL.<br>
+  Currently learning Redis, Docker, System Design and backend security.
+</p>
 
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/Abduvaliyev2003"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/YOUR_NAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://t.me/YOUR_NAME"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Abduvaliyev2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_NAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_NAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -46,18 +29,4 @@ Currently learning **Redis, Docker, System Design** and backend security.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abduvaliyev2003&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduvaliyev2003&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
-<h2 align="center">⌘ Commit Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abduvaliyev2003/Abduvaliyev2003/output/github-snake-dark.svg" width="100%" />
-</p>
-
-<h2 align="center">⌘ Philosophy</h2>
-
-<p align="center"><i>"Build. Learn. Repeat."</i></p>
+<p align="center"><i>Build. Learn. Repeat.</i></p>
